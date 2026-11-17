@@ -1,0 +1,17 @@
+{
+  "name": "الدرع",
+  "short_name": "الدرع",
+  "description": "درع يكبر بالأفعال القوية ويتصلّح بعد الأفعال الضعيفة",
+  "lang": "ar",
+  "dir": "rtl",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f7f4fb",
+  "theme_color": "#4f8ff7",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
