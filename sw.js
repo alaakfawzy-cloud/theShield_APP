@@ -1,5 +1,5 @@
 // غيّري رقم الإصدار هنا مع كل تحديث للموقع
-const VERSION = "shield-1.2";
+const VERSION = "shield-1.3";
 const ASSETS = ["./", "./index.html", "./manifest.webmanifest", "./icon-192.png", "./icon-512.png", "./icon-maskable-512.png", "./apple-touch-icon.png"];
 
 self.addEventListener("install", (e) => {
